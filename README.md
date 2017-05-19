@@ -9,3 +9,5 @@ A list of awesome sites with a nice UI &amp; UX
   Interesting mobile menu on this one. Dental Fone
 6. http://www.narrowdesign.com/
 7. http://melaniedaveid.com/
+8. http://www.alwaysfound.com/ Awesome blogs and call to actions
+9. https://huemor.rocks/
