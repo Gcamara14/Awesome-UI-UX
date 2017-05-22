@@ -11,3 +11,4 @@ A list of awesome sites with a nice UI &amp; UX
 7. http://melaniedaveid.com/
 8. http://www.alwaysfound.com/ Awesome blogs and call to actions
 9. https://huemor.rocks/
+10. https://www.lahautesociete.com/ - Awesome video playing on button hover
