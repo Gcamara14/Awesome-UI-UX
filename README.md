@@ -13,3 +13,4 @@ A list of awesome sites with a nice UI &amp; UX
 9. https://huemor.rocks/
 10. https://www.lahautesociete.com/ - Awesome video playing on button hover
 11. https://www.viget.com/
+12. https://jam.com
