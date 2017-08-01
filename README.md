@@ -15,3 +15,4 @@ A list of awesome sites with a nice UI &amp; UX
 11. https://www.viget.com/
 12. https://jam.com
 13. https://egghead.io  
+14. https://www.gregor-ojstersek.com - Awesome Portfolio Site
