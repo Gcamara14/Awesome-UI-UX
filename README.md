@@ -18,3 +18,4 @@ A list of awesome sites with a nice UI &amp; UX
 14. https://www.gregor-ojstersek.com - Awesome Portfolio Site
 15. http://www.insymbiosis.com/
 16. http://roblafratta.com/ - Awesome link hover effect
+17. http://creative.yourstru.ly/ - Simple but beautiful.
