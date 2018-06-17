@@ -19,3 +19,4 @@ A list of awesome sites with a nice UI &amp; UX
 15. http://www.insymbiosis.com/
 16. http://roblafratta.com/ - Awesome link hover effect
 17. http://creative.yourstru.ly/ - Simple but beautiful.
+18. https://www.podia.com/ - Podia a course selling website for content creators with a nice friendly ui.
