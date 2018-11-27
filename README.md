@@ -23,3 +23,10 @@ A list of awesome sites with a nice UI &amp; UX
 19. http://www.meetgraham.com.au/ - Awesome SVG reveal.
 20. https://my.pottermore.com/hogwarts/ - Awesome webgl immersive experience
 21. https://cssgradient.io/resources/ - The apps on this site have a nice UI design
+
+
+
+
+PERSONAL WEBSITE REBRAND IDEAS:
+
+1. https://humaan.com/
